@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dy9GnfsD/oBAVflZKxuARRJOdtHvPaWaHY2duRZ361GV/myuROsf4wxWjXoFfdBi86Rfcqph7v2SItZ5gAJ6cQ==",
+  "dgSpecHash": "pZPEjUBkjuyJWSTYMsVSPrOBrD6qIBpsaTmOXPdYZ2jkMRoXFUcIUrJ2wGqnYGPEHxBsP/OB625o1Mq5hMp8MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\PRN231\\Ôn\\CodeFirst\\CodeFirstAPI\\CodeFirstAPI.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\Ôn\\CodeFirst\\CodeFirstAPI\\CodeFirstAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

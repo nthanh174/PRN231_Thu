@@ -2348,11 +2348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\PRN231\\Ôn\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\Ôn\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "projectName": "CodeFirst",
-      "projectPath": "C:\\Users\\admin\\Desktop\\PRN231\\Ôn\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\Ôn\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\PRN231\\Ôn\\CodeFirst\\CodeFirst\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\Ôn\\CodeFirst\\CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

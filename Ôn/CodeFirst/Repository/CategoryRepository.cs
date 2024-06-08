@@ -18,6 +18,6 @@ namespace Repository
 
         public void Insert(Category category) => CategoryDAO.Insert(category);
 
-    public void Update(Category category)=> CategoryDAO.Update(category);
+        public void Update(Category category) => CategoryDAO.Update(category);
     }
 }

@@ -13,9 +13,9 @@ namespace CodeFirstAPI.Cofnig
                 config.CreateMap<Category, CategoryDTO>();
                 config.CreateMap<CategoryDTO, Category>();
 
-/*                config.CreateMap<Book, BookDTO>()
-                    .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.Category.Id))
-                    .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name));*/
+                config.CreateMap<Book, BookDTO>()
+                .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.Category.Id))
+                .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name));
             });
 
             return mapperConfig.CreateMapper();
