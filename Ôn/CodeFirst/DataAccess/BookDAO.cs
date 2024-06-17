@@ -1,4 +1,5 @@
 ﻿using CodeFirst;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +17,7 @@ namespace DataAccess
             {
                 try
                 {
-                    list = context.Books.ToList();
+                    list = context.Books.Include(s => s.Category).ToList();
                 }
                 catch (Exception ex)
                 {
@@ -33,7 +34,7 @@ namespace DataAccess
             {
                 try
                 {
-                    book = context.Books.FirstOrDefault(b => b.Id == id);
+                    book = context.Books.Include(s => s.Category).FirstOrDefault(b => b.Id == id);
                 }
                 catch (Exception ex)
                 {
@@ -102,7 +103,7 @@ namespace DataAccess
             {
                 try
                 {
-                    list = context.Books
+                    list = context.Books.Include(s => s.Category)
                         .Where(b => b.Name.Contains(keyword) || b.Category.Name.Contains(keyword))
                         .ToList();
                 }

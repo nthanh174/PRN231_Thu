@@ -11,9 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<CodeFirstContext>(options => options.UseSqlServer(
+/*builder.Services.AddDbContext<CodeFirstContext>(options => options.UseSqlServer(
 builder.Configuration.GetConnectionString("MyConnectionString")
-));
+));*/
 
 var mapper = AutoMapperConfig.Initialize();
 builder.Services.AddSingleton(mapper);

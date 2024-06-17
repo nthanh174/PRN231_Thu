@@ -7,28 +7,60 @@
       "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\cofnig\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\cofnig\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\cofnig\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\cofnig\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\dataaccess\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirst\\codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC6BB-94F4-4010-BBD3-9681B3A4A36C}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A467D74-C2FF-4916-8C8D-6EF7103661B6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DECFBBE-6248-4B8B-9DD9-4FA811AA70CE}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DECFBBE-6248-4B8B-9DD9-4FA811AA70CE}|Repository\\Repository.csproj|solutionrelative:repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|c:\\users\\admin\\desktop\\prn231\\prn231_thu\\\u00F4n\\codefirst\\codefirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0CC4213-C097-4A85-924F-0C6591189F3C}|CodeFirstAPI\\CodeFirstAPI.csproj|solutionrelative:codefirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
-              "RelativeToolTip": "CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "DocumentIndex": 7,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:35:40.062Z",
+              "WhenOpened": "2024-06-17T16:17:28.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\DTO\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "CodeFirst\\DTO\\CategoryDTO.cs",
@@ -63,20 +95,85 @@
               "RelativeToolTip": "CodeFirst\\DTO\\CategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:35:23.221Z",
+              "WhenOpened": "2024-06-17T16:15:29.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "CodeFirst\\DTO\\BookDTO.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\DTO\\BookDTO.cs",
               "RelativeToolTip": "CodeFirst\\DTO\\BookDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:35:08.207Z",
+              "WhenOpened": "2024-06-17T16:15:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\Category.cs",
+              "RelativeToolTip": "CodeFirst\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:47:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\Book.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\Book.cs",
+              "RelativeToolTip": "CodeFirst\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:15:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\Repository\\Program.cs",
+              "RelativeDocumentMoniker": "Repository\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\Repository\\Program.cs",
+              "RelativeToolTip": "Repository\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:55:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodeFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\CodeFirstContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\CodeFirstContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirst\\CodeFirstContext.cs",
+              "RelativeToolTip": "CodeFirst\\CodeFirstContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA5wBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:47:33.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CodeFirstAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:47:20.959Z",
               "EditorCaption": ""
             },
             {
@@ -87,35 +184,9 @@
               "RelativeDocumentMoniker": "CodeFirstAPI\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Controllers\\BookController.cs",
               "RelativeToolTip": "CodeFirstAPI\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDUAAAAQAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:31:52.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CodeFirstAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CodeFirstAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:31:36.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\CategoryDAO.cs",
-              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:31:23.811Z",
+              "WhenOpened": "2024-06-17T15:43:51.777Z",
               "EditorCaption": ""
             },
             {
@@ -126,9 +197,74 @@
               "RelativeDocumentMoniker": "DataAccess\\BookDAO.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\BookDAO.cs",
               "RelativeToolTip": "DataAccess\\BookDAO.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:31:10.714Z",
+              "WhenOpened": "2024-06-17T15:40:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\DataAccess\\Program.cs*",
+              "RelativeToolTip": "DataAccess\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:32:42.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
+              "RelativeToolTip": "CodeFirstAPI\\Cofnig\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:26:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\appsettings.json",
+              "RelativeToolTip": "CodeFirstAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T15:23:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CodeFirstAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T15:22:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRN231\\PRN231_Thu\\\u00D4n\\CodeFirst\\CodeFirstAPI\\Program.cs",
+              "RelativeToolTip": "CodeFirstAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:14:29.57Z",
               "EditorCaption": ""
             }
           ]
